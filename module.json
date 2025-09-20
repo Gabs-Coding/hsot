@@ -1,0 +1,23 @@
+{
+  "id": "hsot",
+  "title": "Health Status On Token",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>HSOT is an acronym to Health Status On Token. That module propose display the a visually approximation of the current actor life status.</p>",
+  "authors": [
+    {
+      "name": "Gabs-Coding",
+      "email": "gabrielsoaresribeirocoding@gmail.com",
+      "discord": "gabrielsribeiro",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Gabs-Coding/hsot",
+  "flags": {
+    "canUpload": true
+  },
+  "esmodules": ["dist/module.js"]
+}

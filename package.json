@@ -1,0 +1,29 @@
+{
+  "name": "hsot",
+  "version": "1.0.0",
+  "description": "HSOT is an acronym to Health Status On Token. That module propose display the a visually approximation of the current actor life status.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "watch:ts": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabs-Coding/hsot.git"
+  },
+  "keywords": [],
+  "author": "Gabs-Coding",
+  "license": "AGPL",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gabs-Coding/hsot/issues"
+  },
+  "homepage": "https://github.com/Gabs-Coding/hsot#readme",
+  "devDependencies": {
+    "fvtt-types": "github:League-of-Foundry-Developers/foundry-vtt-types#main",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.6"
+  }
+}
